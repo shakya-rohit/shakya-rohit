@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Shakya
 
-🎯 Senior Software Engineer | Backend Developer | Java, Spring Boot, Microservices  
+🎯 Senior Product Engineer | Backend Developer | Java, Spring Boot, Microservices  
 📍 Noida, India | IIT Tirupati Alumni | Tech Explorer & Builder
 
 ---
@@ -29,6 +29,8 @@ Beyond work, I love experimenting with new technologies, working on personal too
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| 📝 **AceYourExam** | Online examination & performance analytics platform with real exam simulation, JWT-based role authorization (Student/Admin), timed test runner, and detailed attempt analysis | Angular, Spring Boot, PostgreSQL, JWT |
+| 🏋️ **Gymverse** | Full-stack Gym Management System with Member & Trainer CRUD, Membership Plans, Analytics Dashboard, and AWS integrations | Angular, Spring Boot, DynamoDB, AWS S3 |
 | 🎮 **Learning is Fun** | Educational Unity3D game with levels designed to teach traffic rules and COVID-19 safety to kids | Unity3D, C# |
 | 🧠 **GitHub Issues Prioritizer** | Flask-based tool that uses custom ML logic to rank and categorize GitHub issues based on relevance and context | Python, Flask, HTML |
 | 🩺 **MedConnect** | Web app to browse, search, and manage Ayurvedic & Allopathic medicines with cart and store map integration | MERN Stack |
@@ -45,7 +47,7 @@ Beyond work, I love experimenting with new technologies, working on personal too
 
 ## 🏆 Awards
 
-- 🥇 **Super Crew Spot Award** – *LTIMindtree* (Twice)
+- 🥇 **Super Crew Spot Award** – *LTIMindtree* (Twice, for delivery excellence)
 
 ---
 
