@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Shakya
 
-🎯 Senior Product Engineer | Backend Developer | Java, Spring Boot, Microservices  
+🎯 Senior Product Engineer | Backend & AI Engineer | Java, Spring Boot, Microservices, Generative AI
 📍 Noida, India | IIT Tirupati Alumni | Tech Explorer & Builder
 
 ---
@@ -21,6 +21,7 @@ Beyond work, I love experimenting with new technologies, working on personal too
 **Databases:** PostgreSQL, MySQL, MongoDB, ArangoDB  
 **Messaging:** Apache Kafka  
 **Dev Tools:** Git, GitHub, GitLab, Jenkins, IntelliJ, VS Code  
+**Generative AI:** RAG, AI Agents, MCP, Vector Search, Knowledge Graphs, LLM Tool Calling  
 **Others:** WSO2, Keycloak, CI/CD, REST APIs
 
 ---
@@ -29,11 +30,22 @@ Beyond work, I love experimenting with new technologies, working on personal too
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 📝 **AceYourExam** | Online examination & performance analytics platform with real exam simulation, JWT-based role authorization (Student/Admin), timed test runner, and detailed attempt analysis | Angular, Spring Boot, PostgreSQL, JWT |
-| 🏋️ **Gymverse** | Full-stack Gym Management System with Member & Trainer CRUD, Membership Plans, Analytics Dashboard, and AWS integrations | Angular, Spring Boot, DynamoDB, AWS S3 |
-| 🎮 **Learning is Fun** | Educational Unity3D game with levels designed to teach traffic rules and COVID-19 safety to kids | Unity3D, C# |
-| 🧠 **GitHub Issues Prioritizer** | Flask-based tool that uses custom ML logic to rank and categorize GitHub issues based on relevance and context | Python, Flask, HTML |
-| 🩺 **MedConnect** | Web app to browse, search, and manage Ayurvedic & Allopathic medicines with cart and store map integration | MERN Stack |
+| 🧠 [**InsightEngine AI**](https://github.com/shakya-rohit/insight-engine-ai) | AI-powered Hybrid Retrieval system combining RAG (FAISS Vector Search) and Knowledge Graph reasoning for intelligent conversational querying across uploaded documents and structured relationships | Angular, FastAPI, Python, OpenAI API, FAISS, Knowledge Graphs |
+| 📝 [**AceYourExam**](https://github.com/shakya-rohit/aceyourexam-frontend) | Online examination & performance analytics platform with real exam simulation, JWT-based role authorization (Student/Admin), timed test runner, and detailed attempt analysis | Angular, Spring Boot, PostgreSQL, JWT |
+| 🏋️ [**Gymverse**](https://github.com/shakya-rohit/gymverse-frontend) | Full-stack Gym Management System with Member & Trainer CRUD, Membership Plans, Analytics Dashboard, and AWS integrations | Angular, Spring Boot, DynamoDB, AWS S3 |
+| 🎮 [**Learning is Fun**](https://github.com/shakya-rohit/learning_is_fun) | Educational Unity3D game with levels designed to teach traffic rules and COVID-19 safety to kids | Unity3D, C# |
+| 🧠 [**GitHub Issues Prioritizer**](https://github.com/shakya-rohit/tool-development) | Flask-based tool that uses custom ML logic to rank and categorize GitHub issues based on relevance and context | Python, Flask, HTML |
+| 🩺 [**MedConnect**](https://github.com/shakya-rohit/medconnect-web) | Web app to browse, search, and manage Ayurvedic & Allopathic medicines with cart and store map integration | MERN Stack |
+
+---
+
+## 🌱 Currently Exploring
+
+- Agentic AI Systems
+- MCP & Tool Calling
+- Advanced RAG Architectures
+- System Design & Distributed Systems
+- AI Infrastructure Engineering
 
 ---
 
